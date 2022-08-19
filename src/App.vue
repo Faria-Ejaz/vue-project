@@ -16,12 +16,15 @@
   -moz-osx-font-smoothing: grayscale;
   min-height: 100vh;
   display: flex;
+  color: #2c3e50;
+  background: #f9f9f9;
+  padding: 0 1em 1em;
 }
 
 .navbar {
   display: flex;
   flex-direction: column;
-  background-color: #0C2A36;
+  background-color: #0c2a36;
   padding: 25px;
   color: #fafafa;
 
